@@ -26,7 +26,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
     $servername = "localhost";
     $username = "root";
-    $password = "Senai@118";
+    $password = "";
     $dbname = "exercicio";
 
     // Tenta criar uma conexão com o banco de dados
